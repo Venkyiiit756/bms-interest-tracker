@@ -69886,5 +69886,89 @@
         "Interests": "—"
       }
     ]
+  },
+  {
+    "timestamp": "2025-09-11T18:39:02.825Z",
+    "date": "2025-09-11",
+    "totalMovies": 19,
+    "successCount": 8,
+    "data": [
+      {
+        "Movie": "War 2",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Coolie",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Avatar Fire And Ash",
+        "Interests": "161K"
+      },
+      {
+        "Movie": "Demon Slayer Kimetsu No Yaiba The Movie Infinity Castle",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Kantara A Legend Chapter1",
+        "Interests": "324.5K"
+      },
+      {
+        "Movie": "The Raja Saab",
+        "Interests": "176.3K"
+      },
+      {
+        "Movie": "They Call Him Og",
+        "Interests": "235.4K"
+      },
+      {
+        "Movie": "The Conjuring Last Rites",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Ilanti Cinema Meereppudu Chusundaru",
+        "Interests": "159.5K"
+      },
+      {
+        "Movie": "Baahubali The Epic",
+        "Interests": "155.5K"
+      },
+      {
+        "Movie": "Toxic A Fairy Tale For Grownups",
+        "Interests": "216.8K"
+      },
+      {
+        "Movie": "Coolie The Powerhouse",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Param Sundari",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Ghich Pich",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Dhumketu",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Mirai",
+        "Interests": "161K"
+      },
+      {
+        "Movie": "Mahavatar Narsimha 3dtelugu",
+        "Interests": "—"
+      },
+      {
+        "Movie": "Saiyaara",
+        "Interests": "—"
+      },
+      {
+        "Movie": "F1 The Movie",
+        "Interests": "—"
+      }
+    ]
   }
 ]
